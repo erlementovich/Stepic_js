@@ -1,0 +1,14 @@
+@import url('reset.css');
+
+body {
+    background-color: gray;
+    color: white;
+}
+
+.image{
+    width: 50%;
+}
+
+.image img{
+    width: 50%;
+}
